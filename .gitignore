@@ -1,0 +1,5 @@
+*.out
+tags
+*.o
+surround-camera
+*.DS_*
